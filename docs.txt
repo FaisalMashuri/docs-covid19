@@ -1,0 +1,6 @@
+-> Link Data set : https://covid19.mathdro.id/api
+
+-> Alasan visualisasi dengan bar chart : Karena yang kita ingin visualisasikan cuma 3 kategori data ( recovered, Infected, Deaths )
+  , jadi menurut saya barchart lebih cocok untuk memvisualisasikan data covid ini, karena simple dan dan lebih mudah dipahami.
+
+-> Aspek-aspek : disitu saya menggunakan 3 warna ( biru, hijau , merah ) untuk membedakannya, ini akan menambah aestetik
